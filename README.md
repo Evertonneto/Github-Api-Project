@@ -6,7 +6,7 @@
 
 ## Preview 🖼️
 
-[<img src="./src/imgs/preview.gif">]()
+[<img src="./src/imgs/desktopview.gif">]()
 
 ## Tecnologias Utilizadas 💻
 
