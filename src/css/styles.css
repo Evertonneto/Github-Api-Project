@@ -121,6 +121,19 @@ main {
   line-height: 23px;
 }
 
+.container .profile-data .info ul li a{
+  padding: 10px 20px;
+  border: 1px solid grey;  
+  margin: 20px;
+  display: block;
+  border-radius: 7px;
+  transition: 0.3s ease-in-out;
+}
+.container .profile-data .info ul li a:hover{
+  background-color:hotpink;
+  color: #fff
+}
+
 /* REPOSITORIES */
 
 .container .profile-data .repositories h2{
